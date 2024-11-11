@@ -1,0 +1,25 @@
+{
+  "environment": "web",
+  "format": "html",
+  "prefix": "https://storage.googleapis.com",
+  "mainga": "UA-49880327-14",
+  "updated": "2024-11-11T15:35:04Z",
+  "id": "20241113LINEbot_flexmsg",
+  "duration": 0,
+  "title": "LINEを使って、問い合わせチャットボットを作ってみよう",
+  "authors": "specialman9999",
+  "summary": "LINEを使って、問い合わせチャットボットを作ってみよう",
+  "source": "1CQKT77b-DzvNOSr2NNILz4ErazikUnDzMXMAmhznKcM",
+  "theme": "web",
+  "status": [
+    "published"
+  ],
+  "category": [
+    "web"
+  ],
+  "tags": [
+    "line",
+    "web"
+  ],
+  "url": "20241113LINEbot_flexmsg"
+}
